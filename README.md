@@ -35,13 +35,13 @@ To organize and document the calculated measures, we add a Measures table to the
 
 ## 5. Overview Page<a name="overview-page"></a>
 **Description**: 
-The Overview Page provides a high-level summary of key HR metrics and trends. It includes visual representations such as card visuals and charts to present information on total employees, active employees, inactive employees, attrition rate, total employees by job role and department, active employees by department, and employee hiring trends. This page serves as a dashboard for stakeholders to quickly grasp the current state of HR metrics.
+The Overview Page provides a high-level summary of key HR metrics and trends. It includes visual representations such as card visuals, stacked column and pie charts to present information on total employees, active employees, inactive employees, attrition rate, total employees by job role and department, active employees by department, and employee hiring trends. This page serves as a dashboard for stakeholders to quickly grasp the current state of HR metrics.
 
 ![Overview Page](link_to_overview_screenshot)
 
 ## 6. Demographics Page<a name="demographics-page"></a>
 **Description**: 
-The Demographics Page delves into employee demographics, providing insights into various characteristics such as age, marital status, and gender. It includes visualizations such as slicers, card visuals, stacked bar charts, and donut charts to showcase the distribution of employees across different demographic categories. This page helps in understanding the composition of the workforce and identifying demographic trends.
+The Demographics Page delves into employee demographics, providing insights into various characteristics such as age, marital status, and gender. It includes visualizations such as slicers, card visuals, stacked bar chart, clustered bar chart, line and stacked column chart and donut chart to showcase the distribution of employees across different demographic categories. This page helps in understanding the composition of the workforce and identifying demographic trends.
 
 ![Demographics Page](link_to_demographics_screenshot)
 
@@ -53,7 +53,7 @@ The Performance Tracker Page focuses on tracking employee performance metrics ov
 
 ## 8. Attrition Page<a name="attrition-page"></a>
 **Description**: 
-The Attrition Page analyzes factors contributing to attrition rates within the organization. It includes visualizations such as card visuals, stacked bar charts, and stacked column charts to display attrition rates based on factors such as overtime requirement, tenure, job role, department, and travel frequency. This page provides insights into attrition patterns and helps in developing strategies to mitigate attrition.
+The Attrition Page analyzes factors contributing to attrition rates within the organization. It includes visualizations such as card visuals, stacked bar charts, line chart and stacked column chart to display attrition rates based on factors such as overtime requirement, tenure, job role, department, and travel frequency. This page provides insights into attrition patterns and helps in developing strategies to mitigate attrition.
 
 ![Attrition Page](link_to_attrition_screenshot)
 
