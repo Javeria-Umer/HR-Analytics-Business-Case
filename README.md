@@ -37,7 +37,7 @@ To organize and document the calculated measures, we add a Measures table to the
 **Description**: 
 The Overview Page provides a high-level summary of key HR metrics and trends. It includes visual representations such as card visuals, stacked column and pie charts to present information on total employees, active employees, inactive employees, attrition rate, total employees by job role and department, active employees by department, and employee hiring trends. This page serves as a dashboard for stakeholders to quickly grasp the current state of HR metrics.
 
-![Overview Page](link_to_overview_screenshot)
+![Overview Page](https://github.com/Javeria-Umer/HR-Analytics-Business-Case/blob/main/Overview.png?raw=true)
 
 ## 6. Demographics Page<a name="demographics-page"></a>
 **Description**: 
