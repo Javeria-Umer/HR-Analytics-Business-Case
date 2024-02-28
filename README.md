@@ -23,7 +23,7 @@ The data transformation phase involves extracting HR data from various sources s
 **Description**: 
 Building the data model is a crucial step in the analysis process. Design the data model in Power BI by identifying key entities such as employees, departments, and performance metrics. Created dimension tables for entities and fact tables for performance metrics, establishing relationships between them to form a star schema. This structured approach facilitates efficient analysis and visualization of HR data.
 
-![Data Model Page](link_to_data_model_screenshot)
+![Data Model Page](https://github.com/Javeria-Umer/HR-Analytics-Business-Case/blob/main/Model%20view.png?raw=true)
 
 ## 3. Writing DAX Measures<a name="writing-dax-measures"></a>
 **Description**: 
@@ -43,19 +43,20 @@ The Overview Page provides a high-level summary of key HR metrics and trends. It
 **Description**: 
 The Demographics Page delves into employee demographics, providing insights into various characteristics such as age, marital status, and gender. It includes visualizations such as slicers, card visuals, stacked bar chart, clustered bar chart, line and stacked column chart and donut chart to showcase the distribution of employees across different demographic categories. This page helps in understanding the composition of the workforce and identifying demographic trends.
 
-![Demographics Page](link_to_demographics_screenshot)
+![Demographics Page](https://github.com/Javeria-Umer/HR-Analytics-Business-Case/blob/main/Demographic.png?raw=true
+)
 
 ## 7. Performance Tracker Page<a name="performance-tracker-page"></a>
 **Description**: 
 The Performance Tracker Page focuses on tracking employee performance metrics over time. It includes visualizations such as slicers, card visuals, and line charts to display metrics like environment satisfaction, job satisfaction, relationship satisfaction, work-life balance satisfaction, self-rating, and manager rating. This page allows stakeholders to monitor performance trends and identify areas for improvement.
 
-![Performance Tracker Page](link_to_performance_tracker_screenshot)
+![Performance Tracker Page](https://github.com/Javeria-Umer/HR-Analytics-Business-Case/blob/main/Performance%20Tracker.png?raw=true)
 
 ## 8. Attrition Page<a name="attrition-page"></a>
 **Description**: 
 The Attrition Page analyzes factors contributing to attrition rates within the organization. It includes visualizations such as card visuals, stacked bar charts, line chart and stacked column chart to display attrition rates based on factors such as overtime requirement, tenure, job role, department, and travel frequency. This page provides insights into attrition patterns and helps in developing strategies to mitigate attrition.
 
-![Attrition Page](link_to_attrition_screenshot)
+![Attrition Page](https://github.com/Javeria-Umer/HR-Analytics-Business-Case/blob/main/Attrition.png?raw=true)
 
 ## 9. Navigator Bar<a name="navigator-bar"></a>
 **Description**: 
